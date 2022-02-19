@@ -37,6 +37,21 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   5. [GitHub](https://en.wikipedia.org/wiki/GitHub)
 
 
+  ### Setup
+
+  To run this project on your machine you should use a Virtual Enviroment with Django3 installed.
+
+  It's recommended to follow the instructions below:
+
+  1. Create and empty folder in your machine:
+  ```bash
+  mkdir django_projects
+  ```
+
+  
+
+  
+
 
 
 
