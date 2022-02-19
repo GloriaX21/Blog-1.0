@@ -37,38 +37,62 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   5. [GitHub](https://en.wikipedia.org/wiki/GitHub)
 
 
-  ### Setup
+ ## Setup
 
   To run this project on your machine you should use a <strong>Virtual Enviroment</strong> with <strong>Django3</strong> installed. It's necessary to have also <strong>Python3</strong> installed.
 
   It's recommended to follow the instructions below:
+  
+  ### Check Python Version/Install Python3
 
   1. Check if you have Python3 installed. Open the Terminal and type:
   ```bash
   python3
   ```
 
-  You should get an output that shows you Python version. In case you don't get nothingm check this guide to install the last version of Python3 [Python.org/downloads](https://www.python.org/downloads/)
+  You should get an output that shows you the Python version installed on yous OS. In case you don't get nothing check this guide to install the last version of Python3 [Python.org/downloads](https://www.python.org/downloads/)
 
-  2. After that you installed Python3. Create and empty folder in your machine:
+  ### Install the Virtual Enviroment
+
+  1. After that you installed Python3. Create and empty folder in your machine:
   ```bash
   mkdir django_projects
   ```
 
-  3. Go inside the folder and install the <strong>Virtual Enviroment</strong>:
+  2. Go inside the folder and install the <strong>Virtual Enviroment</strong>:
   ```bash
   python3 -m venv my_env
   ```  
     - <strong>my_env<strong> is the name of your Virtual Enviroment
 
-  4. Activate the Vitual Enviroment:
+  3. Activate the Vitual Enviroment:
   ```bash
   source my_env/bin/activate
   ``` 
   Whenever you would like to <strog>deactivate</strog> the Virtual Enviroment, type:
   ```bash
-  source my_env/bin/activate
+  source my_env/bin/deactivate
   ``` 
+
+  ### Install Django3 Framework in the Virtual Enviroment with pip
+
+  (With Python3 <strong>pip</strong> package manager comes installed. It's recommended to use <strong>pip3</strong>)
+
+  1. Install Django3:
+  ```bash
+  pip3 install "Django==3.0.*"
+  ```  
+
+  2. Check that Django3 it's been successfully installed:
+    ```bash
+  python3
+  >>> import django
+  >>> django.get_version()
+  '3.0.14'
+  ``` 
+
+  
+
 
 
 
