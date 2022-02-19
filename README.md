@@ -45,7 +45,7 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   
   ### Check Python Version/Install Python3
 
-  1. Check if you have <strong>Python3</strong> installed. Open the Terminal and type:
+  <span style="color:#33ccff">1.</span> Check if you have <strong>Python3</strong> installed. Open the Terminal and type:
   ```bash
   python3
   ```
@@ -97,7 +97,7 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   3. Be sure that the Virtual Enviroment is active (you should see <strong>(my_env)</strong> next to your bash username on the Terminal);
   4. <strong>Follow these steps to run the project on the Server</strong>:
 
-   1. Go inside <strong>the nature_project folder</strong>:
+    1. Go inside <strong>the nature_project folder</strong>:
    ```bash
    cd nature project
    README.md blog db.sqlite3 images manage.py nature 
