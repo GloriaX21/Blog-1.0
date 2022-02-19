@@ -99,23 +99,23 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
 
    1. Go inside <strong>the nature_project folder</strong>:
      ```bash
-    cd nature project
-    README.md blog db.sqlite3 images manage.py nature 
-    ```
+     cd nature project
+     README.md blog db.sqlite3 images manage.py nature 
+     ```
 
    2. Run the Server with Django <strong>runserver</strong> command:
-    ```bash
-    python3 manage.py runserver
-    Watching for file changes with StatReloader
-    Performing system checks...
-    ``` 
-    ```bash
-    System check identified no issues (0 silenced).
-    February 19, 2022 - 12:20:00
-    Django version 3.0.14, using settings 'nature.settings'
-    Starting development server at http://127.0.0.1:8000/
-    Quit the server with CONTROL-C.
-    ```
+     ```bash
+     python3 manage.py runserver
+     Watching for file changes with StatReloader
+     ``` 
+
+     ```bash
+     System check identified no issues (0 silenced).
+     February 19, 2022 - 12:20:00
+     Django version 3.0.14, using settings 'nature.settings'
+     Starting development server at http://127.0.0.1:8000/
+     Quit the server with CONTROL-C.
+     ```
 
    3. Copy the <strong>URL address</strong> you'll obtain on your Browser's navbar, adding the <strong>blog/</strong> path:
 
