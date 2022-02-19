@@ -17,6 +17,14 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
 
 ![Image-Intro-Webapp](images/image_blog_layout1.png)
 
+ ## Technologies Used
 
+ ### Languages Used
+
+ * [Python3](https://en.wikipedia.org/wiki/Python_(programming_language))
+ * [HTML5](https://en.wikipedia.org/wiki/HTML5)
+ * [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3)
+
+ 
 
 
