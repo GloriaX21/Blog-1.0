@@ -63,7 +63,7 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   ```bash
   python3 -m venv my_env
   ```  
-    - <strong>my_env<strong> is the name of your Virtual Enviroment
+    * <strong>my_env<strong> is the name of your Virtual Enviroment
 
   3. Activate the Vitual Enviroment:
   ```bash
@@ -84,14 +84,14 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   ```  
 
   2. Check that Django3 it's been successfully installed:
-    ```bash
+  ```bash
   python3
   >>> import django
   >>> django.get_version()
   '3.0.14'
   ``` 
 
-  
+
 
 
 
