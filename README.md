@@ -108,7 +108,8 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
     python3 manage.py runserver
     Watching for file changes with StatReloader
     Performing system checks...
-
+    ``` 
+    ```bash
     System check identified no issues (0 silenced).
     February 19, 2022 - 12:20:00
     Django version 3.0.14, using settings 'nature.settings'
@@ -118,7 +119,7 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
 
    3. Copy the <strong>URL address</strong> you'll obtain on your Browser's navbar, adding the <strong>blog/</strong> path:
 
-   ![Image-Intro-Webapp](images/url_path)
+   ![url_image](images/url_path.png)
 
 
 
