@@ -39,19 +39,36 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
 
   ### Setup
 
-  To run this project on your machine you should use a Virtual Enviroment with Django3 installed.
+  To run this project on your machine you should use a <strong>Virtual Enviroment</strong> with <strong>Django3</strong> installed. It's necessary to have also <strong>Python3</strong> installed.
 
   It's recommended to follow the instructions below:
 
-  1. Create and empty folder in your machine:
+  1. Check if you have Python3 installed. Open the Terminal and type:
+  ```bash
+  python3
+  ```
+
+  You should get an output that shows you Python version. In case you don't get nothingm check this guide to install the last version of Python3 [Python.org/downloads](https://www.python.org/downloads/)
+
+  2. After that you installed Python3. Create and empty folder in your machine:
   ```bash
   mkdir django_projects
   ```
 
-  
+  3. Go inside the folder and install the <strong>Virtual Enviroment</strong>:
+  ```bash
+  python3 -m venv my_env
+  ```  
+    - <strong>my_env<strong> is the name of your Virtual Enviroment
 
-  
-
+  4. Activate the Vitual Enviroment:
+  ```bash
+  source my_env/bin/activate
+  ``` 
+  Whenever you would like to <strog>deactivate</strog> the Virtual Enviroment, type:
+  ```bash
+  source my_env/bin/activate
+  ``` 
 
 
 
