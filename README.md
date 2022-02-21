@@ -45,7 +45,7 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   
   ### Check Python Version/Install Python3
 
-  <span style="color:#33ccff">1.</span> Check if you have <strong>Python3</strong> installed. Open the Terminal and type:
+  1. Check if you have <strong>Python3</strong> installed. Open the Terminal and type:
   ```bash
   python3
   ```
