@@ -141,7 +141,7 @@ class Post(models.Model):
   ### Status
 
   A new version of this application (NatureBlog 2.0) is under development. 
-  This new version will include new functionalities, like:
+  This new version will include extra functionalities, like:
 
   * Sharing posts via email
   * Adding Comments to a post
