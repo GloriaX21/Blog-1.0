@@ -97,29 +97,28 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   3. Be sure that the Virtual Environment is active (you should see <strong>(my_env)</strong> next to your bash username on the Terminal);
   4. <strong>Follow these steps to run the project on the Server</strong>:
 
-   1. Go inside <strong>the nature_project folder</strong>:
-   ```bash
-   cd nature project
-   README.md blog db.sqlite3 images manage.py nature 
-   ```
+     1. Go inside <strong>the nature_project folder</strong>:
+     ```bash
+     cd nature project
+     README.md blog db.sqlite3 images manage.py nature 
+     ```
 
-   2. Run the Server with Django <strong>runserver</strong> command
-   ```bash
-   python3 manage.py runserver
-   Watching for file changes with StatReloader
-   ``` 
+     2. Run the Server with Django <strong>runserver</strong> command
+     ```bash
+     Watching for file changes with StatReloader
+     ``` 
 
-   ```bash
-   System check identified no issues (0 silenced).
-   February 19, 2022 - 12:20:00
-   Django version 3.0.14, using settings 'nature.settings'
-   Starting development server at http://127.0.0.1:8000/
-   Quit the server with CONTROL-C.
-   ```
+     ```bash
+     System check identified no issues (0 silenced).
+     February 19, 2022 - 12:20:00
+     Django version 3.0.14, using settings 'nature.settings'
+     Starting development server at http://127.0.0.1:8000/
+     Quit the server with CONTROL-C.
+     ```
 
-   3. Copy the <strong>URL address</strong> you'll obtain on your Browser's navbar, adding the <strong>blog/</strong> path:
+     3. Copy the <strong>URL address</strong> you'll obtain on your Browser's navbar, adding the <strong>blog/</strong> path:
 
-   ![url_image](images/url_path.png)
+     ![url_image](images/url_path.png)
 
 
 
