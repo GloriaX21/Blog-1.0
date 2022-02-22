@@ -121,4 +121,16 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
      ![url_image](images/url_path.png)
 
 
+  ### Status
+
+  A new version of this application (NatureBlog 2.0) is under development. 
+  This new version will include new functionalities, like:
+
+  * Sharing posts via email
+  * Adding Comments to a post
+  * Tagging posts
+  * Recomending similar posts
+
+
+
 
