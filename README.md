@@ -68,7 +68,7 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   ```bash
   source my_env/bin/activate
   ``` 
-     Whenever you would like to <strog>deactivate</strog> the <strong>Virtual Environment</strong>, type:
+  Whenever you would like to <strog>deactivate</strog> the <strong>Virtual Environment</strong>, type:
   ```bash
   source my_env/bin/deactivate
   ``` 
