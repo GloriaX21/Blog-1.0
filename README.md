@@ -39,7 +39,7 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
 
  ## Setup
 
-  To run this project on your machine you should use a <strong>Virtual Enviroment</strong> with <strong>Django3</strong> installed. It's necessary to have also <strong>Python3</strong> installed.
+  To run this project on your machine you should use a <strong>Virtual Environment</strong> with <strong>Django3</strong> installed. It's necessary to have also <strong>Python3</strong> installed.
 
   It's recommended to follow the instructions below:
   
@@ -50,16 +50,16 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   python3
   ```
 
-  You should get an output that shows you the Python version installed on yous OS. In case you don't get nothing check this guide to install the last version of Python3 [Python.org/downloads](https://www.python.org/downloads/)
+  You should get an output that shows you the Python version installed on your OS. In case you don't get anything, checks this guide to install the last version of Python3 [Python.org/downloads](https://www.python.org/downloads/)
 
   ### Install the Virtual Enviroment
 
-  1. After that you installed Python3. Create and empty folder in your machine:
+  1. After you installed Python3. Create an empty folder in your machine:
   ```bash
   mkdir django_projects
   ```
 
-  2. Go inside the folder and install the <strong>Virtual Enviroment</strong>:
+  2. Go inside the folder and install the <strong>Virtual Environment</strong>:
   ```bash
   python3 -m venv my_env
   ```  
@@ -68,7 +68,7 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   ```bash
   source my_env/bin/activate
   ``` 
-  Whenever you would like to <strog>deactivate</strog> the <strong>Virtual Enviroment</strong>, type:
+     Whenever you would like to <strog>deactivate</strog> the <strong>Virtual Environment</strong>, type:
   ```bash
   source my_env/bin/deactivate
   ``` 
