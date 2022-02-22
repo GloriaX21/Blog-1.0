@@ -73,9 +73,9 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   source my_env/bin/deactivate
   ``` 
 
-  ### Install Django3 Framework in the Virtual Enviroment with pip
+  ### Install Django3 Framework in the Virtual Environment with pip
 
-  (With Python3 <strong>pip</strong> package manager comes installed. It's recommended to use <strong>pip3</strong>)
+  (With Python3, <strong>pip</strong> package manager comes installed. It's recommended to use <strong>pip3</strong>)
 
   1. Install <strong>Django3</strong>:
   ```bash
@@ -93,11 +93,11 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   ### Run the Application on the Server
 
   1. Download the NatureBlog Project's Folder from this GitHub Account;
-  2. Put this folder inside you Remote Django Projects folder in you machine (where you installed the Virtual Enviroment);
-  3. Be sure that the Virtual Enviroment is active (you should see <strong>(my_env)</strong> next to your bash username on the Terminal);
+  2. Put this folder inside the Remote Django Projects folder in you machine (where you installed the Virtual Environment);
+  3. Be sure that the Virtual Environment is active (you should see <strong>(my_env)</strong> next to your bash username on the Terminal);
   4. <strong>Follow these steps to run the project on the Server</strong>:
 
-    1. Go inside <strong>the nature_project folder</strong>:
+   1. Go inside <strong>the nature_project folder</strong>:
    ```bash
    cd nature project
    README.md blog db.sqlite3 images manage.py nature 
