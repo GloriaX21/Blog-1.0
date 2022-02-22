@@ -11,7 +11,7 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
  * [General Info](https://github.com/GloriaX21/Django_Blog-1.0/tree/dev-features#general-info)
  * [Technologies](https://github.com/GloriaX21/Django_Blog-1.0/tree/dev-features#technologies-used)
  * [Setup](https://github.com/GloriaX21/Django_Blog-1.0/tree/dev-features#setup)
- * [Status]()
+ * [Status](https://github.com/GloriaX21/Django_Blog-1.0/tree/dev-features#status)
  
  ## General Info
  
