@@ -8,10 +8,10 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
 
  ## Table Of Contents
 
- * General Info
- * Technologies
- * Setup
- * Status
+ * [General Info](https://github.com/GloriaX21/Django_Blog-1.0/tree/dev-features#general-info)
+ * [Technologies](https://github.com/GloriaX21/Django_Blog-1.0/tree/dev-features#technologies-used)
+ * [Setup](https://github.com/GloriaX21/Django_Blog-1.0/tree/dev-features#setup)
+ * [Status]()
  
  ## General Info
  
@@ -45,7 +45,7 @@ This is a Blog Web Application, written in <strong>Django 3</strong>.
   
   ### Check Python Version/Install Python3
 
-  <span style="color:#33ccff">1.</span> Check if you have <strong>Python3</strong> installed. Open the Terminal and type:
+  1. Check if you have <strong>Python3</strong> installed. Open the Terminal and type:
   ```bash
   python3
   ```
